@@ -1,4 +1,4 @@
-import './style.css'
+import './style.css' //tes changes
 export default function App()
 {
   return(
